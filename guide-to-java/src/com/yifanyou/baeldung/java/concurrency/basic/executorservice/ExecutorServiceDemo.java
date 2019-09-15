@@ -1,4 +1,4 @@
-package com.yifanyou.baeldung.java.basic.executorservice;
+package com.yifanyou.baeldung.java.concurrency.basic.executorservice;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

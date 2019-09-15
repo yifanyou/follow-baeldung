@@ -1,4 +1,4 @@
-package com.yifanyou.baeldung.java.basic.executorservice;
+package com.yifanyou.baeldung.java.concurrency.basic.threadfactory;
 
 /**
  * 版权：    blog.yifanyou.com
@@ -10,6 +10,6 @@ package com.yifanyou.baeldung.java.basic.executorservice;
 public class Task implements Runnable {
     @Override
     public void run() {
-        System.out.println("hello executor service");
+        System.out.println("hello thread factory");
     }
 }

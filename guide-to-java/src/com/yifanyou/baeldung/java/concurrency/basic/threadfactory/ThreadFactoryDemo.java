@@ -1,4 +1,4 @@
-package com.yifanyou.baeldung.java.basic.threadfactory;
+package com.yifanyou.baeldung.java.concurrency.basic.threadfactory;
 
 /**
  * 版权：    blog.yifanyou.com

@@ -1,4 +1,4 @@
-package com.yifanyou.baeldung.java.basic.semaphore;
+package com.yifanyou.baeldung.java.concurrency.basic.semaphore;
 
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.TimeUnit;

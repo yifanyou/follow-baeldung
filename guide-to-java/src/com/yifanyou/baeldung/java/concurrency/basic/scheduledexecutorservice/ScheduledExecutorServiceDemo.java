@@ -1,4 +1,4 @@
-package com.yifanyou.baeldung.java.basic.scheduledexecutorservice;
+package com.yifanyou.baeldung.java.concurrency.basic.scheduledexecutorservice;
 
 import java.util.concurrent.*;
 import java.util.function.Function;

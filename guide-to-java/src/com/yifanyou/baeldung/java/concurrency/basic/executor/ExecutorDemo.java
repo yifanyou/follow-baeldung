@@ -1,4 +1,4 @@
-package com.yifanyou.baeldung.java.basic.executor;
+package com.yifanyou.baeldung.java.concurrency.basic.executor;
 
 import java.util.concurrent.Executor;
 

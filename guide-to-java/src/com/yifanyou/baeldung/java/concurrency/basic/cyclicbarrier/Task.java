@@ -1,4 +1,4 @@
-package com.yifanyou.baeldung.java.basic.cyclicbarrier;
+package com.yifanyou.baeldung.java.concurrency.basic.cyclicbarrier;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

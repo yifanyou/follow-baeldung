@@ -1,4 +1,4 @@
-package com.yifanyou.baeldung.java.basic.future;
+package com.yifanyou.baeldung.java.concurrency.basic.future;
 
 import java.util.concurrent.*;
 
