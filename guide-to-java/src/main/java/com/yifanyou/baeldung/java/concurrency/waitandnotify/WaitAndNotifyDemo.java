@@ -1,7 +1,7 @@
 package com.yifanyou.baeldung.java.concurrency.waitandnotify;
 
 /**
- * 版权：    上海云砺信息科技有限公司
+ * 版权：    blog.yifanyou.com
  * 创建者:   youyifan
  * 创建时间: 11/11/2019 11:27 PM
  * 功能描述:

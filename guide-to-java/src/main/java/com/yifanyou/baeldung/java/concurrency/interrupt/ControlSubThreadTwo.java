@@ -3,7 +3,7 @@ package com.yifanyou.baeldung.java.concurrency.interrupt;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 /**
- * 版权：    上海云砺信息科技有限公司
+ * 版权：    blog.yifanyou.com
  * 创建者:   youyifan
  * 创建时间: 10/5/2019 2:51 PM
  * 功能描述:
