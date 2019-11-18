@@ -2,4 +2,4 @@
 
 learning https://www.baeldung.com/
 
-thanks baeldung!
+thanks for baeldung!
