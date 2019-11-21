@@ -6,6 +6,7 @@ target/
 .project
 .settings/
 .classpath
+/guide-to-java/.idea
 /guide-to-java/.idea/*.xml
 /guide-to-java/.idea/*.html
 /guide-to-java/.idea/inspectionProfiles/*.xml
