@@ -11,7 +11,7 @@ import java.util.concurrent.*;
  * 版权：    blog.yifanyou.com
  * 创建者:   youyifan
  * 创建时间: 12/18/2019 5:04 PM
- * 功能描述: IDEA需要安装JMH-PLUGIN,windows上执行的时候要锁c盘windows目录下的文件导致失败，我最后在命令行执行。
+ * 功能描述: IDEA需要安装JMH-PLUGIN,windows上执行的时候要锁c盘windows目录下的文件导致失败，我最后在命令行执行。两个方法执行完结果Random还快一些。。
  * 修改历史:
  */
 @BenchmarkMode(Mode.AverageTime)
