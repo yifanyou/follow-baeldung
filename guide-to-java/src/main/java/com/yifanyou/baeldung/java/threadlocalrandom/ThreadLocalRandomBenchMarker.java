@@ -20,6 +20,16 @@ import java.util.concurrent.*;
 @State(Scope.Benchmark)
 public class ThreadLocalRandomBenchMarker {
 
+    /**
+     * 执行结果
+     *
+     * Benchmark                                             Mode  Cnt     Score    Error  Units
+     * ThreadLocalRandomBenchMarker.randomValuesUsingRandom  avgt  200  1397.016 ± 27.461  us/op
+     *
+     * Benchmark                                                        Mode  Cnt     Score     Error  Units
+     * ThreadLocalRandomBenchMarker.randomValuesUsingThreadLocalRandom  avgt  200  1648.892 ± 110.017  us/op
+     */
+
     List<Callable<Integer>> randomCallables = new ArrayList<>();
     List<Callable<Integer>> threadLocalRandomCallables = new ArrayList<>();
 
