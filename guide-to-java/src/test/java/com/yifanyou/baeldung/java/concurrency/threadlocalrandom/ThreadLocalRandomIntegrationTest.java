@@ -7,7 +7,7 @@ import java.util.concurrent.ThreadLocalRandom;
 import static org.junit.Assert.assertTrue;
 
 /**
- * 版权：    上海云砺信息科技有限公司
+ * 版权：    blog.yifanyou.com
  * 创建者:   youyifan
  * 创建时间: 12/18/2019 4:59 PM
  * 功能描述:
